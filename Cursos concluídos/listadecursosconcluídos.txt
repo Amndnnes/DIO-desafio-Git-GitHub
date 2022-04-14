@@ -1,0 +1,7 @@
+Cursos que já conluí no Impulso Fullstack Web Developer
+
+Pensamento Computacional 
+Lógica de Programação Essencial
+Introdução ao Git e GitHub 
+Projetos ágeis com SCRUM
+Primeiro passos para desenvolvimento web
